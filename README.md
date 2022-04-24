@@ -1,4 +1,4 @@
 # rock-paper-scrissors
 
-> It is a lame beginner friendly rock, paper & scrissors game.
+> Beginner friendly rock, paper & scrissors game.
 

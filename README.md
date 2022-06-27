@@ -1,4 +1,4 @@
-# rock-paper-scrissors
+# rock-paper-scissors
 
-> Beginner friendly rock, paper & scrissors game.
+> Beginner friendly rock, paper & scissors game.
 
